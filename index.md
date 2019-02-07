@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/RyanMitchell9/RyanMitchell9.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a Computer Science student at Boise State University, and will graduate with my BS in May 2021.
+while attenting school, I am also studying on my own and doing my own projects in different languages.
+I am searching for my first internship opportunity, and would love to contribute to your team.
 
 ### Markdown
 
